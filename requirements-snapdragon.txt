@@ -1,0 +1,3 @@
+# Extra package for Snapdragon X (Windows on ARM) PCs. Install AFTER requirements.txt.
+# It is a plugin for onnxruntime (it needs onnxruntime>=1.24.2), so do NOT uninstall onnxruntime.
+onnxruntime-qnn
