@@ -1,0 +1,7 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+# Listen on this computer only, so documents are never reachable from other devices on the network.
+address = "localhost"
